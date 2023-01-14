@@ -222,3 +222,45 @@
     background-color: transparent;
     font-size: 17px;
 }
+
+
+/* -- feature product -- */
+
+.feature-product {}
+
+.feature-wrapper {
+    margin: 0px auto;
+    width: 1110px;
+}
+
+.feature-card {
+    display: flex;
+}
+
+.feature-img {
+    margin-right: 96px;
+}
+
+.feature-img img {
+    width: 300px;
+    height: 100%;
+}
+
+.feature-text {
+    padding: 30px 0px;
+}
+
+.feature-text h2 {
+    font-weight: 700;
+    font-size: 38px;
+    margin-bottom: 16px;
+    color: #1b1a22;
+}
+
+.feature-text p {
+    font-weight: 700;
+    font-size: 16px;
+    color: #6c6c6c94;
+    margin-bottom: 16px;
+    margin-right: 170px;
+}
